@@ -248,5 +248,5 @@ ${prefix}np ⇏ لمعرفة الأغنية المشغلة حآليا
 ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
 
  `)
-   }); 
+}); 
    client.login(process.env.BOT_TOKEN); 
