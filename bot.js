@@ -247,9 +247,6 @@ ${prefix}stop ⇏ لإخرآج البوت من الروم
 ${prefix}np ⇏ لمعرفة الأغنية المشغلة حآليا
 ${prefix}queue ⇏ لمعرفة قآئمة التشغيل
 
- `)'
-   message.channel.sendEmbed(embed)//by ,$ Arhan Abdulhadi#0674 ء ,  'ATY SERVER'
-    
-   }
+ `)
    }); 
    client.login(process.env.BOT_TOKEN); 
